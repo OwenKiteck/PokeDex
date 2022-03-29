@@ -30,6 +30,8 @@ h1 {
 }
 
 .pokemon {
+    width: 140px;
+    height: 200px;
     background-color: rgb(240, 59, 52);
     border-radius: 10px;
     padding: 10px;
@@ -43,7 +45,7 @@ h1 {
 .img-container {
     width: 120px;
     height: 120px;
-    background-color: rgb(40, 42, 44);
+    background-color: rgb(57, 60, 75);
     border: 10px solid rgb(228, 228, 228);
     border-radius: 10px;
     border-bottom: 8px solid rgb(255, 255, 255);
